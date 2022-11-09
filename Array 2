@@ -1,0 +1,15 @@
+int [] a = {22,33,11,55,44,88,66,99,77,111};	
+		
+		char [] c = {'z','u','m','b','a'};
+		
+		Arrays.sort(a);	
+		
+		for (int i : a) {
+			System.out.println(i);
+		}
+
+		Arrays.sort(c);	
+		
+		for (char i : c) {
+			System.out.println(i);
+		}
