@@ -1,0 +1,5 @@
+int [] a = {22,33,11,55,44,88,66,99,77,111};
+		 
+		int i;
+		for(i=0;i<a.length;i++)
+			System.out.println(a[i]);
